@@ -9,7 +9,11 @@
 <img src="https://komarev.com/ghpvc/?username=muhammadal-najjar01-star&style=for-the-badge&color=0E4194&label=PROFILE+VIEWS"/>
 
 </div>
-
+<p align="center">
+  <a href="https://mohammed-ali-nu.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Visit_My_Portfolio-0078D4?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+</p>
 ## 👋 About me
 
 - 🎓 M.Sc. student in **Computer Engineering** at the **University of Genoa** (2nd year), with a B.Sc. in **Systems and Biomedical Engineering** from Cairo University (GPA 3.7/4).
@@ -18,11 +22,7 @@
 - 📍 Genoa, Italy
 
 ## 🛠️ Tech stack
-<p align="center">
-  <a href="https://mohammed-ali-nu.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Visit_My_Portfolio-0078D4?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
-</p>
+
 <div align="center">
 
 <img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,opencv,cpp,qt,js,flask,django,mysql,flutter,dart,matlab,bash,linux,git,github,blender&perline=9" alt="Skills"/>
