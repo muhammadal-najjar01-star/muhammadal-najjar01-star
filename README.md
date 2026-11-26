@@ -88,7 +88,13 @@ Medical image feature detection with Harris, SIFT, SSD and NCC.
 
 <img src="https://streak-stats.demolab.com?user=muhammadal-najjar01-star&theme=tokyonight&hide_border=true"/>
 
-<img src="https://raw.githubusercontent.com/muhammadal-najjar01-star/muhammadal-najjar01-star/output/github-snake-dark.svg" alt="Contribution snake"/>
+</div>
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/muhammadal-najjar01-star/muhammadal-najjar01-star/output/github-snake-dark.svg" alt="Contribution snake" width="100%"/>
+</p>
+
+<div align="center">
 
 </div>
 
