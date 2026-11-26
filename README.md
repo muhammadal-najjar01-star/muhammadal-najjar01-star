@@ -1,7 +1,7 @@
 
 <div align="center">
 
-  <img src="./assets/banner.svg" alt="Mohammed Ali - AI Engineer" width="100%"/>
+  <img src="./banner.svg" alt="Mohammed Ali - AI Engineer" width="100%"/>
 
   <br/>
 
@@ -175,15 +175,15 @@ Medical image feature extraction and analysis using Harris Corner Detection, SIF
   <p><strong>Open to collaboration on Applied AI, Agentic Systems, and Medical Imaging projects.</strong></p>
 
   <a href="https://www.linkedin.com/in/mohammed-elnagar-513a64245/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 
   <a href="mailto:muhammad.al-najjar01@eng-st.cu.edu.eg">
-    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Contact by email"/>
+    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 
   <br/><br/>
 
-  <img src="./assets/footer.svg" alt="Footer" width="100%"/>
+  <img src="./footer.svg" alt="Footer" width="100%"/>
 
 </div>
